@@ -5,8 +5,7 @@
 // this is on line 2.
 // this is on line 3.
 
-namespace src\Regras;
-use src\Substituivel\Substituivel;
+namespace Src\Regras;
 
 class Five implements Substituivel {
 

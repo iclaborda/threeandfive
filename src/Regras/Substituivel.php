@@ -5,9 +5,9 @@
 // this is on line 2.
 // this is on line 3.
 
-namespace src\Substituivel;
+namespace Src\Regras;
 
-interface Substituiveis {
+interface Substituivel {
 
     public static function numeroSubstituivel($num);
     public static function retornaStringSub();
