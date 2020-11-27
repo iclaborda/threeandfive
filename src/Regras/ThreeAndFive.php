@@ -15,6 +15,6 @@ class ThreeAndFive implements Substituivel {
         }
 
         public static function retornaStringSub() {
-            return "ThreeAndFive";
+            return 'ThreeAndFive';
         }
 }
